@@ -1,0 +1,154 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.13.0/schema.json",
+  "name": "9af553170000b5dd12cb",
+  "position": {
+    "x": 881.28,
+    "y": 105.84,
+    "z": 8000,
+    "height": 473.04,
+    "width": 987.12,
+    "tabOrder": 8000
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "Sales: sales have been increasing compare to the beginning of 2014. The sales was at the highest peak in the November 2017. The months in which revenue increased the most are 11, 12, 9 of each year.",
+                    "textStyle": {
+                      "fontFamily": "Calibri",
+                      "fontSize": "18pt"
+                    }
+                  }
+                ],
+                "listType": "bullet"
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Products: each category of products contains products with high sales but low profitability. Certain heavy-duty printers in Technology and bulky conference tables in Furniture generate high revenue but suffer from negative margins due to shipping and discounting costs For the office supplies(BoxOffice By Design Rectangular and Half-Moon ...)",
+                    "textStyle": {
+                      "fontFamily": "Calibri",
+                      "fontSize": "18pt"
+                    }
+                  }
+                ],
+                "listType": "bullet"
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Region: the west region contribute in sales more than other regions with almost $253k and second the east region with $208k.",
+                    "textStyle": {
+                      "fontFamily": "Calibri",
+                      "fontSize": "18pt"
+                    }
+                  }
+                ],
+                "listType": "bullet"
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Discount: high discount may affect the profitability specially with 30% or higher profitability will become negative.",
+                    "textStyle": {
+                      "fontFamily": "Calibri",
+                      "fontSize": "18pt"
+                    }
+                  }
+                ],
+                "listType": "bullet"
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "customers: a significant amount of consumers play a big role in sales with 50.56% of consumers are these a good business insights for my dashboard ",
+                    "textStyle": {
+                      "fontFamily": "Calibri",
+                      "fontSize": "18pt"
+                    }
+                  }
+                ],
+                "listType": "bullet"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "background": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 2,
+                      "Percent": 0.6
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "padding": [
+        {
+          "properties": {
+            "left": {
+              "expr": {
+                "Literal": {
+                  "Value": "12D"
+                }
+              }
+            },
+            "top": {
+              "expr": {
+                "Literal": {
+                  "Value": "12D"
+                }
+              }
+            },
+            "right": {
+              "expr": {
+                "Literal": {
+                  "Value": "12D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "title": [
+        {
+          "properties": {
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'business insights'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  },
+  "isHidden": true
+}
