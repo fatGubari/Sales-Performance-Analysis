@@ -74,26 +74,5 @@ The purpose of this project is to analyze sales performance, identify business t
 - PowerBI/
 - SQL/
 
-## Structure
-Sales-Performance-Analysis/
-│
-├── data/
-│   ├── raw_sales.csv
-│   └── cleaned_sales.csv
-│
-├── notebooks/
-│   └── sales_analysis.ipynb
-│
-├── sql/
-│   └── sales_queries.sql
-│
-├── powerbi/
-│   └── sales_dashboard.pbix
-│
-├── images/
-│   └── dashboard_screenshot.png
-│
-└── README.md
-
 ## Author
 Data Analyst Portfolio Project BY Fatima Abdullah
