@@ -63,8 +63,8 @@ The purpose of this project is to analyze sales performance, identify business t
 - Allocate targeted marketing spend and customer retention programs toward the Consumer segment and Western geographic markets where brand presence is already strong. Simultaneously, investigate why regions like the South or Corporate/Home Office segments lag behind, and design tailored campaigns to boost engagement there.
 
 ## Dashboard Preview
-![Image Alt](Images/Sales Performance Dashboard.png)
-![Image Alt](Images/Product and Customer Analysis.png)
+![Image Alt](Images/Sales_Performance_Dashboard.png)
+![Image Alt](Images/Product_and_Customer_Analysis.png)
 
 ## Project Files
 - sql/
