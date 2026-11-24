@@ -67,7 +67,6 @@ The purpose of this project is to analyze sales performance, identify business t
 ![Image Alt](Images/Product_and_Customer_Analysis.png)
 
 ## Project Files
-- sql/
 - powerbi/
 - images/
 - Notebook/
